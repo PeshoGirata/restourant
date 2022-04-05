@@ -1,0 +1,98 @@
+.topnav {
+    height: 130px;
+    width: 1503px;
+    background-color: #EFE6DD;
+    position: absolute;
+}
+
+.logo {
+    position: absolute;
+    top: 25px;
+    left: 45.7%;
+}
+
+.mini_nav {
+    height: 80px;
+    width: 1503px;
+    background-color: sandybrown;
+    position: absolute;
+    top: 138px;
+}
+
+.home_button {
+    height: 60px;
+    width: 100px;
+    background-color: #edcdbb;
+    border-radius: 20%;
+    position: absolute;
+    left: 445px;
+    top: 147px;
+}
+
+.home {
+    position: absolute;
+    left: 469px;
+    top: 165px;
+}
+
+.home_button_two {
+    height: 60px;
+    width: 100px;
+    background-color: #edcdbb;
+    border-radius: 20%;
+    position: absolute;
+    left: 715px;
+    top: 147px;
+}
+
+.home_two {
+    position: absolute;
+    left: 743px;
+    top: 165px;
+}
+
+.home_button_three {
+    height: 60px;
+    width: 100px;
+    background-color: #edcdbb;
+    border-radius: 20%;
+    position: absolute;
+    left: 1015px;
+    top: 147px;
+}
+
+.home_three {
+    position: absolute;
+    left: 1033px;
+    top: 165px;
+}
+.back {
+    position: absolute;
+    top: 218px;
+}
+.square {
+    height: 530px;
+    width: 715px;
+    background: url(images/try.jpg);
+
+    position: absolute;
+    left: 312px;
+    top: 467px;
+}
+.content {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 300px;
+    top: 460px;
+
+}
+.kremlin {
+    position: absolute;
+    left: 350px;
+    top: 700px;
+    border-radius: 15px;
+}
+img.lion {
+    border-radius: 15px;
+}
