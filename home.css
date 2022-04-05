@@ -1,0 +1,64 @@
+.topnav {
+    height: 130px;
+    width: 100%;
+    background-color: #EFE6DD;
+    position: absolute;
+}
+
+.logo {
+    position: absolute;
+    top: 25px;
+    left: 45.7%;
+}
+.mini_nav {
+    height: 80px;
+    width: 100%;
+    background-color: sandybrown;
+    position: absolute;
+    top: 138px;
+}
+
+.home_button {
+    height: 60px;
+    width: 100px;
+    background-color: #edcdbb;
+    border-radius: 20%;
+    position: absolute;
+    left: 500px;
+    top: 147px;
+}
+.home {
+    position: absolute;
+    left: 530px;
+    top: 165px;
+}
+.home_button_two {
+    height: 60px;
+    width: 100px;
+    background-color: #edcdbb;
+    border-radius: 20%;
+    position: absolute;
+    left: 800px;
+    top: 147px;
+}
+
+.home_two {
+    position: absolute;
+    left: 830px;
+    top: 165px;
+}
+.home_button_three {
+    height: 60px;
+    width: 100px;
+    background-color: #edcdbb;
+    border-radius: 20%;
+    position: absolute;
+    left: 1100px;
+    top: 147px;
+}
+
+.home_three {
+    position: absolute;
+    left: 1122px;
+    top: 165px;
+}
