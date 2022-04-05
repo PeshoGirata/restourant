@@ -1,6 +1,6 @@
 .topnav {
     height: 130px;
-    width: 100%;
+    width: 1503px;
     background-color: #EFE6DD;
     position: absolute;
 }
@@ -10,9 +10,10 @@
     top: 25px;
     left: 45.7%;
 }
+
 .mini_nav {
     height: 80px;
-    width: 100%;
+    width: 1503px;
     background-color: sandybrown;
     position: absolute;
     top: 138px;
@@ -24,41 +25,44 @@
     background-color: #edcdbb;
     border-radius: 20%;
     position: absolute;
-    left: 500px;
+    left: 445px;
     top: 147px;
 }
+
 .home {
     position: absolute;
-    left: 530px;
+    left: 469px;
     top: 165px;
 }
+
 .home_button_two {
     height: 60px;
     width: 100px;
     background-color: #edcdbb;
     border-radius: 20%;
     position: absolute;
-    left: 800px;
+    left: 715px;
     top: 147px;
 }
 
 .home_two {
     position: absolute;
-    left: 830px;
+    left: 743px;
     top: 165px;
 }
+
 .home_button_three {
     height: 60px;
     width: 100px;
     background-color: #edcdbb;
     border-radius: 20%;
     position: absolute;
-    left: 1100px;
+    left: 1015px;
     top: 147px;
 }
 
 .home_three {
     position: absolute;
-    left: 1122px;
+    left: 1033px;
     top: 165px;
 }
